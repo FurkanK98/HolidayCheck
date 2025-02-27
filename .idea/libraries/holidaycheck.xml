@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="holidaycheck">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/holidaycheck/out/artifacts/holidaycheck_jar/holidaycheck.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
