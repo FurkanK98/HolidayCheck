@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="holidaycheck:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/holidaycheck_jar</output-path>
+    <root id="archive" name="holidaycheck.jar">
+      <element id="module-output" name="holidaycheck" />
+    </root>
+  </artifact>
+</component>
