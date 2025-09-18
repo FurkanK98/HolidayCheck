@@ -32,11 +32,11 @@ Das Ziel des Projekts ist es, die Urlaubsverwaltung effizienter, transparenter u
 
 ## 📸 Screenshots
 
-**<ins>Mitarbeiter-Interaktionen</ins>**
+**👤 <ins>Mitarbeiter-Interaktionen</ins>**
 
 ![Mitarbeiter](screenshots/Mitarbeiter.png)
 
-**<ins>Chef-Interaktionen</ins>**
+**👑 <ins>Chef-Interaktionen</ins>**
 
 ![Mitarbeiter](screenshots/Chef.png)
 
