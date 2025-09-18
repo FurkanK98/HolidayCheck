@@ -32,10 +32,6 @@ Das Ziel des Projekts ist es, die Urlaubsverwaltung effizienter, transparenter u
 
 ## 📸 Screenshots (optional)
 
-**<ins>HAUPTMENÜ</ins>**
-
-![Hauptmenü](screenshots/Hauptmenü.png)
-
 **<ins>Mitarbeiter-Interaktionen</ins>**
 
 ![Mitarbeiter](screenshots/Mitarbeiter.png)
