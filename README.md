@@ -30,7 +30,7 @@ Das Ziel des Projekts ist es, die Urlaubsverwaltung effizienter, transparenter u
 - Architektur: Client-Server mit RMI
 - Entwicklungsumgebung: IntelliJ IDEA
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
 
 **<ins>Mitarbeiter-Interaktionen</ins>**
 
